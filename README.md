@@ -10,15 +10,15 @@
 - [Calibration Process in Black-Box LLMs](#calibration-process-in-black-box-llms)
   - [Content](#content)
   - [Papers](#papers)
-    - [:paperclip:Confidence Estimation Methods](#paperclipconfidence-estimation-methods)
+    - [:school_satchel:Confidence Estimation Methods](#school_satchelconfidence-estimation-methods)
       - [:book:Consistency Methods](#bookconsistency-methods)
       - [:book:Self-Reflection Methods](#bookself-reflection-methods)
       - [:book:Hybrid Methods](#bookhybrid-methods)
-    - [:paperclip:Calibration Error Measurement Methods](#paperclipcalibration-error-measurement-methods)
-    - [:paperclip:Calibration Alignment Methods](#paperclipcalibration-alignment-methods)
+    - [:school_satchel:Calibration Error Measurement Methods](#school_satchelcalibration-error-measurement-methods)
+    - [:school_satchel:Calibration Alignment Methods](#school_satchelcalibration-alignment-methods)
 
 ## Papers
-### :paperclip:Confidence Estimation Methods
+### :school_satchel:Confidence Estimation Methods
 #### :book:Consistency Methods
 - [[paper]](https://arxiv.org/abs/2303.08896)SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models`(2023)`[[code]](https://github.com/potsawee/selfcheckgpt)
 - [[paper]](https://aclanthology.org/2023.trustnlp-1.28/)Strength in Numbers: Estimating Confidence of Large Language Models by Prompt Agreement`(2023)`[[code]](https://github.com/JHU-CLSP/Confidence-Estimation-TrustNLP2023)
@@ -41,11 +41,11 @@
 - [[paper]](https://arxiv.org/abs/2402.00367)Don't Hallucinate, Abstain: Identifying LLM Knowledge Gaps via Multi-LLM Collaboration`(2024)`[[code]](https://github.com/BunsenFeng/AbstainQA)
 - [[paper]](https://arxiv.org/abs/2402.06544)Calibrating Long-form Generations from Large Language Models`(2024)`[[code]](https://github.com/kkkevinkkkkk/calibration)
 - [[paper]](https://arxiv.org/abs/2406.03441)Cycles of Thought: Measuring LLM Confidence through Stable Explanations`(2024)`
-### :paperclip:Calibration Error Measurement Methods
+### :school_satchel:Calibration Error Measurement Methods
 |Error-Based Methods | Correlation-Based Methods |
 |-------------|-------------|
 | ECE, MCE, MacroCE, TL-ECE, smECE, Reliability Diagram(Visualization Tool), Brier Score, BSS, Quadratic Score, Logarithmic Score, NLL| AUROC, AUPRC, Weighted AUROC, AUARC, PCC, SCC, [RCE](https://arxiv.org/abs/2404.03163)`(2024)`[[code]](https://github.com/shuoli90/Rank-Calibration/tree/main)|
-### :paperclip:Calibration Alignment Methods
+### :school_satchel:Calibration Alignment Methods
 - Post-Processing Based Methods
   - Histogram Binning: [[paper]](https://dl.acm.org/doi/10.1145/502512.502540)Learning and making decisions when costs and probabilities are both unknown`(2001)`
   - Isotonic Regression: [[paper]](https://pubmed.ncbi.nlm.nih.gov/22211175/)Smooth isotonic regression: a new method to calibrate predictive models`(2011)`
