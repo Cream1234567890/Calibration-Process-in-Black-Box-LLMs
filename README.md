@@ -10,12 +10,12 @@
 - [Calibration Process in Black-Box LLMs](#calibration-process-in-black-box-llms)
   - [Content](#content)
   - [Papers](#papers)
-    - [:school_satchel:Confidence Estimation Methods](#school_satchelconfidence-estimation-methods)
+    - [:school\_satchel:Confidence Estimation Methods](#school_satchelconfidence-estimation-methods)
       - [:book:Consistency Methods](#bookconsistency-methods)
       - [:book:Self-Reflection Methods](#bookself-reflection-methods)
       - [:book:Hybrid Methods](#bookhybrid-methods)
-    - [:school_satchel:Calibration Error Measurement Methods](#school_satchelcalibration-error-measurement-methods)
-    - [:school_satchel:Calibration Alignment Methods](#school_satchelcalibration-alignment-methods)
+    - [:school\_satchel:Calibration Error Measurement Methods](#school_satchelcalibration-error-measurement-methods)
+    - [:school\_satchel:Calibration Alignment Methods](#school_satchelcalibration-alignment-methods)
 
 ## Papers
 ### :school_satchel:Confidence Estimation Methods
@@ -57,3 +57,5 @@
   - Auxiliary Calibration Model: [[paper]](https://aclanthology.org/2024.acl-long.824/)Calibrating Large Language Models Using Their Generations Only`(2024)`[[code]](https://github.com/parameterlab/apricot)
   - Auxiliary Calibration Model: [[paper]](https://arxiv.org/abs/2110.07586)Can Explanations Be Useful for Calibrating Black Box Models?`(2022)`[[code]](https://github.com/xiye17/InterpCalib)
   - Auxiliary Calibration Model: [[paper]](https://aclanthology.org/2024.acl-long.745/)LLM-Rubric: A Multidimensional, Calibrated Approach to Automated Evaluation of Natural Language Texts`(2024)`[[code]](https://github.com/microsoft/llm-rubric)
+
+We will continue to complete the relevant papers and code for the calibration process adapted to white-box LLMs...
