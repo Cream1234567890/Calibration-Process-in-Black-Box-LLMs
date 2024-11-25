@@ -37,12 +37,14 @@
 - [[paper]](https://aclanthology.org/2024.findings-acl.728/)Bayesian Prompt Ensembles: Model Uncertainty Estimation for Black-Box Large Language Models`(2024)`[[code]](https://github.com/amzn/BayesPE)
 - [[paper]](https://arxiv.org/abs/2306.13063)Can LLMs Express Their Uncertainty? An Empirical Evaluation of Confidence Elicitation in LLMs`(2023)`[[code]](https://github.com/MiaoXiong2320/llm-uncertainty)
 - [[paper]](https://arxiv.org/abs/2403.20279)LUQ: Long-text Uncertainty Quantification for LLMs`(2024)`[[code]](https://github.com/caiqizh/LUQ)
+- [[paper]](https://arxiv.org/abs/2402.13904)Calibrating Large Language Models with Sample Consistency`(2024)`
 #### :book:Self-Reflection Methods
 - [[paper]](https://arxiv.org/abs/2403.09972)Think Twice Before Trusting: Self-Detection for Large Language Models through Comprehensive Answer Reflection`(2024)`
 - [[paper]](https://arxiv.org/abs/2401.02009)Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives`(2024)`
 - [[paper]](https://arxiv.org/abs/2402.12563)Confidence Matters: Revisiting Intrinsic Self-Correction Capabilities of Large Language Models`(2024)`[[code]](https://github.com/MBZUAI-CLeaR/IoE-Prompting)
 - [[paper]](https://aclanthology.org/2024.findings-acl.515/)Fact-and-Reflection (FaR) Improves Confidence Calibration of Large Language Models`(2024)`[[code]](https://github.com/colinzhaoust/fact-and-reflection)
 - [[paper]](https://arxiv.org/abs/2406.11514)Counterfactual Debating with Preset Stances for Hallucination Elimination of LLMs`(2024)`
+- [[paper]](https://aclanthology.org/2023.emnlp-main.330/)Just Ask for Calibration: Strategies for Eliciting Calibrated Confidence Scores from Language Models Fine-Tuned with Human Feedback`(2023)`
 #### :book:Hybrid Methods
 - [[paper]](https://arxiv.org/abs/2308.16175)Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness`(2023)`
 - [[paper]](https://arxiv.org/abs/2311.08877)Llamas Know What GPTs Don't Show: Surrogate Models for Confidence Estimation`(2023)`
