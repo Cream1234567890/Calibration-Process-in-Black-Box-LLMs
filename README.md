@@ -9,7 +9,7 @@
 ## Content
 
 ---
-- [Calibration Process](#calibration-process-in-black-box-llms)
+- [Calibration Process in Black-Box LLMs](#calibration-process-in-black-box-llms)
   - [Content](#content)
   - [Papers on Calibration Process Methods for Black-Box LLMs](#papers-on-calibration-process-methods-for-black-box-llms)
     - [:school\_satchel:Confidence Estimation Methods](#school_satchelconfidence-estimation-methods)
@@ -42,6 +42,7 @@
 - [[paper]](https://arxiv.org/abs/2401.02009)Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives`(2024)`
 - [[paper]](https://arxiv.org/abs/2402.12563)Confidence Matters: Revisiting Intrinsic Self-Correction Capabilities of Large Language Models`(2024)`[[code]](https://github.com/MBZUAI-CLeaR/IoE-Prompting)
 - [[paper]](https://aclanthology.org/2024.findings-acl.515/)Fact-and-Reflection (FaR) Improves Confidence Calibration of Large Language Models`(2024)`[[code]](https://github.com/colinzhaoust/fact-and-reflection)
+- [[paper]](https://arxiv.org/abs/2406.11514)Counterfactual Debating with Preset Stances for Hallucination Elimination of LLMs`(2024)`
 #### :book:Hybrid Methods
 - [[paper]](https://arxiv.org/abs/2308.16175)Quantifying Uncertainty in Answers from any Language Model and Enhancing their Trustworthiness`(2023)`
 - [[paper]](https://arxiv.org/abs/2311.08877)Llamas Know What GPTs Don't Show: Surrogate Models for Confidence Estimation`(2023)`
@@ -66,7 +67,7 @@
   - Auxiliary Calibration Model: [[paper]](https://aclanthology.org/2024.acl-long.824/)Calibrating Large Language Models Using Their Generations Only`(2024)`[[code]](https://github.com/parameterlab/apricot)
   - Auxiliary Calibration Model: [[paper]](https://arxiv.org/abs/2110.07586)Can Explanations Be Useful for Calibrating Black Box Models?`(2022)`[[code]](https://github.com/xiye17/InterpCalib)
   - Auxiliary Calibration Model: [[paper]](https://aclanthology.org/2024.acl-long.745/)LLM-Rubric: A Multidimensional, Calibrated Approach to Automated Evaluation of Natural Language Texts`(2024)`[[code]](https://github.com/microsoft/llm-rubric)
-
+  - Auxiliary Calibration Model: [[paper]](https://aclanthology.org/2024.acl-long.566/)Pareto Optimal Learning for Estimating Large Language Model Errors`(2024)`
 ## Papers on Calibration Process Methods for White-box LLMs
 ### :school_satchel:Confidence Estimation Methods
 #### :book:Post-Processing Based Methods
