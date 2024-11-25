@@ -4,6 +4,8 @@
 :smile: This repository collects recent papers on Confidence Estimation, Calibration Error Measurement, and Calibration Alignment in black-box LLMs.
 
 :star: At the same time, we have organized these methods in black-box models into a survey paper.
+
+:star: Additionally, we have collected some methods applicable to white-box LLMs and categorized them on our GitHub.
 ## Content
 
 ---
