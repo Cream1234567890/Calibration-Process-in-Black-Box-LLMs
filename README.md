@@ -9,7 +9,7 @@
 ---
 - [Calibration Process](#calibration-process-in-black-box-llms)
   - [Content](#content)
-  - [Papers on Calibration Process Methods for Black-Box LLMs](#papers)
+  - [Papers on Calibration Process Methods for Black-Box LLMs](#papers-on-calibration-process-methods-for-black-box-llms)
     - [:school\_satchel:Confidence Estimation Methods](#school_satchelconfidence-estimation-methods)
       - [:book:Consistency Methods](#bookconsistency-methods)
       - [:book:Self-Reflection Methods](#bookself-reflection-methods)
