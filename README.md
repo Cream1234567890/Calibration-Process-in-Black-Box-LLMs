@@ -7,9 +7,9 @@
 ## Content
 
 ---
-- [Calibration Process in Black-Box LLMs](#calibration-process-in-black-box-llms)
+- [Calibration Process](#calibration-process-in-black-box-llms)
   - [Content](#content)
-  - [Papers](#papers)
+  - [Papers on Calibration Process Methods for Black-Box LLMs](#papers)
     - [:school\_satchel:Confidence Estimation Methods](#school_satchelconfidence-estimation-methods)
       - [:book:Consistency Methods](#bookconsistency-methods)
       - [:book:Self-Reflection Methods](#bookself-reflection-methods)
@@ -24,7 +24,7 @@
       - [:book:Post-Processing Based Methods](#bookpost-processing-based-methods-1)
       - [:book:Training Based Methods](#booktraining-based-methods-1)
 
-## Papers
+## Papers on Calibration Process Methods for Black-Box LLMs
 ### :school_satchel:Confidence Estimation Methods
 #### :book:Consistency Methods
 - [[paper]](https://arxiv.org/abs/2303.08896)SelfCheckGPT: Zero-Resource Black-Box Hallucination Detection for Generative Large Language Models`(2023)`[[code]](https://github.com/potsawee/selfcheckgpt)
