@@ -22,6 +22,7 @@
     - [:school\_satchel:Confidence Estimation Methods](#school_satchelconfidence-estimation-methods-1)
       - [:book:Post-Processing Based Methods](#bookpost-processing-based-methods)
       - [:book:Training Based Methods](#booktraining-based-methods)
+    - [:school\_satchel:Calibration Error Measurement Methods(Same Methods As Black-Box)](#school_satchelcalibration-error-measurement-methodssame-methods-as-black-box)
     - [:school\_satchel:Calibration Alignment Methods](#school_satchelcalibration-alignment-methods-1)
       - [:book:Post-Processing Based Methods](#bookpost-processing-based-methods-1)
       - [:book:Training Based Methods](#booktraining-based-methods-1)
@@ -86,6 +87,7 @@ with Self-Reflective Rationales`(2024)`[[code]](https://github.com/tianyang-x/Sa
 - [[paper]](https://arxiv.org/abs/2311.09677)R-Tuning: Instructing Large Language Models to Say ‘I Don’t Know’`(2024)`[[code]](https://github.com/shizhediao/R-Tuning)
 - P(IK),P(True): [[paper]](https://arxiv.org/abs/2207.05221)Language Models (Mostly) Know What They Know`(2022)`
 - [[paper]](https://arxiv.org/abs/2304.13734)The Internal State of an LLM Knows When It’s Lying`(2023)`
+### :school_satchel:Calibration Error Measurement Methods(Same Methods As Black-Box)
 ### :school_satchel:Calibration Alignment Methods
 #### :book:Post-Processing Based Methods
 - Platt Scaling: [[paper]](https://www.cs.cornell.edu/~alexn/papers/calibration.icml05.crc.rev3.pdf)Predicting good probabilities with supervised
