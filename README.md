@@ -1,4 +1,4 @@
-# Calibration Process in Black-Box LLMs
+# Calibration Process in Black-Box LLMs.
 > Given the vague definitions of Calibration methods in recent research literature, we have defined the concept of the Calibration Process. It includes three steps: Confidence Estimation, Calibration Error Measurement, and Calibration Alignment.
 
 :smile: This repository collects recent papers on Confidence Estimation, Calibration Error Measurement, and Calibration Alignment in black-box LLMs.
